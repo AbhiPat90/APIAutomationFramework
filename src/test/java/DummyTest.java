@@ -2,7 +2,6 @@ import io.restassured.RestAssured;
 import io.restassured.path.json.JsonPath;
 
 import static io.restassured.RestAssured.given;
-import static org.hamcrest.Matchers.contains;
 import static org.hamcrest.Matchers.equalTo;
 // Written this DummyTest class for the new bee/layman person to API Automation
 public class DummyTest {
